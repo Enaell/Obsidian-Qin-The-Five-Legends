@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +200,7 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "521e76e6f12f8542",
+  "active": "56a214a956574a62",
   "lastOpenFiles": [
     "README.md",
     "Obsidian-Qin-The-Five-Legends/README.md",
