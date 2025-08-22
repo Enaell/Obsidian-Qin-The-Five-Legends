@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "809aabc6a5ccdb4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb850840d347651d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a214a956574a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "4b6e2b9fe64c2b7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Sun WuK",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "356c1c86f00c42ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "c5932223cb738014",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2cb396194b1e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766897832f8d82cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Personnages/🐲Huò shé.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 🐲Huò shé"
+            }
+          },
+          {
+            "id": "80c8fb1447cf7b2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Personnages/🐲Huò shé.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de 🐲Huò shé"
+            }
+          },
+          {
+            "id": "1474b1ab73d9b231",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "22e2bed1a5e31f52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "68d66198d6e04ccd",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "521e76e6f12f8542",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "447270d7473c795f",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "homepage:Open homepage": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "521e76e6f12f8542",
+  "lastOpenFiles": [
+    "README.md",
+    "Obsidian-Qin-The-Five-Legends/README.md",
+    "Obsidian-Qin-The-Five-Legends",
+    "02_Personnages/🐲Huò shé.md",
+    "02_Personnages/Personnages.md",
+    "00_Contexte/Factions et Clans/🏮Cheng Jiao et Quzhi.md",
+    "02_Personnages/PNJ_Mineurs/👤Fen Shudi.md",
+    "02_Personnages/PNJ_Mineurs/👤Fan Yuqi.md",
+    "02_Personnages/Chef de Faction/👑Zhao Daoxiangwang.md",
+    "02_Personnages/Chef de Faction/👑Ying Zheng.md",
+    "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
+    "02_Personnages/Chef de Faction/👑Cheng Jiao.md",
+    "02_Personnages/Chef de Faction/👑Chagok.md",
+    "00_Contexte/Factions et Clans/🏯 Xiongnu.md",
+    "00_Contexte/Factions et Clans/🏮Guilde des marchands du Zhao.md",
+    "00_Contexte/Factions et Clans/🏯Huò shé (Roi Démon Serpent) et ses légions.md",
+    "00_Contexte/Factions et Clans/🏯Zhao.md",
+    "00_Contexte/Factions et Clans/🏯Qin.md",
+    "02_Personnages/Les Cinq Légendes/🏹Wei Song.md",
+    "02_Personnages/PNJ_Mineurs/👤Jin Hang.md",
+    "06_Lieux/🏰Quzhi.md",
+    "99_Annexes/Utils/Template Faction.md",
+    "👤 Sung Cho-kuan.md",
+    "02_Personnages/Les Cinq Légendes/Héros de la légende.md",
+    "Sans titre.base",
+    "03_Scénarios/Acte_3/Combat_Final_Huo_She.md",
+    "02_Personnages/Les Cinq Légendes/🍶Sima Zian.md",
+    "02_Personnages/Les Cinq Légendes/🐒Sun WuKong.md",
+    "99_Annexes/Utils",
+    "00_Contexte/Evènements",
+    "02_Personnages/Chef de Faction",
+    "06_Lieux",
+    "02_Personnages/Les Cinq Légendes",
+    "00_Contexte/Factions et Clans",
+    "99_Annexes/Decks/Tarot/21-TheWorld.png",
+    "99_Annexes/Decks/Tarot/20-Judgement.png",
+    "99_Annexes/Decks/Tarot/19-TheSun.png",
+    "99_Annexes/Decks/Tarot/18-TheMoon.png",
+    "99_Annexes/Decks/Tarot/17-TheStar.png",
+    "99_Annexes/Decks/Tarot/16-TheTower.png",
+    "99_Annexes/Decks/Tarot/15-TheDevil.png",
+    "99_Annexes/Decks/Tarot/14-Temperance.png",
+    "99_Annexes/Decks/Tarot/13-Death.png",
+    "99_Annexes/Decks/Tarot/12-TheHangedMan.png",
+    "99_Annexes/Decks/Tarot",
+    "99_Annexes/Decks/Standard"
+  ]
+}
