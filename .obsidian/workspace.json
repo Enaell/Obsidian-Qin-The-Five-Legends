@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d1ea89ee7d4f1b7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Personnages/Chef de Faction/Stat blocs/📊Sung Cho-Kuan (Corrompu, Avatar de Huò shé).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "📊Sung Cho-Kuan (Corrompu, Avatar de Huò shé)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 266.5
   },
   "right": {
     "id": "c5932223cb738014",
@@ -200,20 +204,26 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "56a214a956574a62",
+  "active": "d1ea89ee7d4f1b7b",
   "lastOpenFiles": [
+    "02_Personnages/Chef de Faction/Stat blocs/📊Sung Cho-Kuan (Lettré, manipulateur).md",
+    "02_Personnages/Chef de Faction/Stat blocs/📊Sung Cho-Kuan (Corrompu, Avatar de Huò shé).md",
+    "02_Personnages/Chef de Faction/Stat blocs/📊Cheng Jiao.md",
+    "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
+    "02_Personnages/Chef de Faction/👑Cheng Jiao.md",
+    "02_Personnages/PNJ_Mineurs/👤Bruine de Printemps.md",
+    "02_Personnages/PNJ_Mineurs/👤Djarga.md",
+    "02_Personnages/🐲Huò shé.md",
+    "02_Personnages/Chef de Faction/Stat blocs",
     "README.md",
     "Obsidian-Qin-The-Five-Legends/README.md",
     "Obsidian-Qin-The-Five-Legends",
-    "02_Personnages/🐲Huò shé.md",
     "02_Personnages/Personnages.md",
     "00_Contexte/Factions et Clans/🏮Cheng Jiao et Quzhi.md",
     "02_Personnages/PNJ_Mineurs/👤Fen Shudi.md",
     "02_Personnages/PNJ_Mineurs/👤Fan Yuqi.md",
     "02_Personnages/Chef de Faction/👑Zhao Daoxiangwang.md",
     "02_Personnages/Chef de Faction/👑Ying Zheng.md",
-    "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
-    "02_Personnages/Chef de Faction/👑Cheng Jiao.md",
     "02_Personnages/Chef de Faction/👑Chagok.md",
     "00_Contexte/Factions et Clans/🏯 Xiongnu.md",
     "00_Contexte/Factions et Clans/🏮Guilde des marchands du Zhao.md",
@@ -224,12 +234,7 @@
     "02_Personnages/PNJ_Mineurs/👤Jin Hang.md",
     "06_Lieux/🏰Quzhi.md",
     "99_Annexes/Utils/Template Faction.md",
-    "👤 Sung Cho-kuan.md",
-    "02_Personnages/Les Cinq Légendes/Héros de la légende.md",
     "Sans titre.base",
-    "03_Scénarios/Acte_3/Combat_Final_Huo_She.md",
-    "02_Personnages/Les Cinq Légendes/🍶Sima Zian.md",
-    "02_Personnages/Les Cinq Légendes/🐒Sun WuKong.md",
     "99_Annexes/Utils",
     "00_Contexte/Evènements",
     "02_Personnages/Chef de Faction",
@@ -246,7 +251,6 @@
     "99_Annexes/Decks/Tarot/14-Temperance.png",
     "99_Annexes/Decks/Tarot/13-Death.png",
     "99_Annexes/Decks/Tarot/12-TheHangedMan.png",
-    "99_Annexes/Decks/Tarot",
-    "99_Annexes/Decks/Standard"
+    "99_Annexes/Decks/Tarot"
   ]
 }
