@@ -9,12 +9,13 @@
 [[👑Sung Cho-Kuan]]
 [[👑Cheng Jiao]]
 [[👑Sung Cho-Kuan]]
+[[👑Ying Zheng]]
 [[🐲Huò shé]]
 
 ### Les Cinq Légendes
 
 [[Héros de la légende]]
-[[🪨Fu Hao]]
+[[☄️Fu Hao]]
 [[🏹Wei Song]]
 [[🦋Shen Tai]]
 [[🍶Sima Zian]]

@@ -14,7 +14,7 @@
 - **Conséquences** :
     - Le [[🏯Zhao]] perd l’essentiel de ses forces militaires expérimentées.
     - Le royaume entre dans une lente agonie militaire, dépendant désormais de ses richesses et d’alliances extérieures.
-    - Dans cette campagne, cette défaite explique pourquoi **l’armée du Zhao est faible** malgré sa richesse, et pourquoi **le roi [[👑Zhao Daoxiangwang]] cherche une alliance avec les [[🏯 Xiongnu]]**.
+    - Dans cette campagne, cette défaite explique pourquoi **l’armée du Zhao est faible** malgré sa richesse, et pourquoi **le roi [[👑Zhao Daoxiangwang]] cherche une alliance avec les [[🏯Xiongnu]]**.
     - C’est aussi un traumatisme collectif : de nombreux PNJ (comme [[👤Jin Hang]]) peuvent avoir perdu famille ou mentors à Changping.
 
 👉 En résumé : **Changping est au Zhao ce que Waterloo fut à Napoléon** : la grande défaite qui change tout et dont on ne se remet jamais vraiment.

@@ -30,7 +30,7 @@ Il agit rarement directement, préférant séduire ou asservir les ambitieux (co
 
 - **[[🐲Huò shé]] (祸蛇)** – Roi Démon Serpent, incarnation du mal.
     
-- **[[🪨Fu Hao]]** – Ancienne héroïne du Zhao, trahie et devenue **Jiang Shi** (zombie/guerrière morte-vivante).
+- **[[☄️Fu Hao]]** – Ancienne héroïne du Zhao, trahie et devenue **Jiang Shi** (zombie/guerrière morte-vivante).
     
 - **[[🦊Daji]]** – Démone renarde séductrice, alliée de Sung Cho-Kuan.
     

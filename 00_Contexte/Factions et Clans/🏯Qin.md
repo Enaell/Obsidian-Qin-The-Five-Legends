@@ -19,7 +19,7 @@ le Qin apparaît comme une menace majeure pour le [[🏯Zhao]] et les autres roy
 
 - Détruire les royaumes rivaux, notamment [[🏯Zhao]], Chu et Qi.
    
-- Repousser les barbares ([[🏯 Xiongnu]], Shu, Ba) et exploiter leurs ressources.   
+- Repousser les barbares ([[🏯Xiongnu]], Shu, Ba) et exploiter leurs ressources.   
 
 ---
 

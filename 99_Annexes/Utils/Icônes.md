@@ -89,3 +89,11 @@
 - 🪙 **Richesse / ressource**
    
 
+### 🔊 **Lecture**
+- 🎙️ : lecture / narration
+    
+- 🗣️ : discours, voix qui porte
+    
+- 📜 : parchemin, conte ancien
+    
+- 🔊 : proclamation

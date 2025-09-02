@@ -1,0 +1,3 @@
+Ce Talent regroupe aussi bien l’intendance, l’organisation et la gestion d’une activité commerciale que la connaissance du milieu des marchands et de leurs pratiques et habitudes. Il permet  également d’évaluer un objet et de marchander. Dans ce cas, appliquez la règle suivante : les deux protagonistes effectuent chacun un Test en Opposition de Feu - Commerce. Celui qui remporte la joute bénéficie d’une modification de 5% du prix par point de différence en sa faveur sur les résultats des Tests (maximum : 30%).
+
+Aspect : [[🔥Feu]]

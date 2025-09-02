@@ -4,7 +4,7 @@
 
 ### Résumé :
 
-La **Commanderie de [[🏰Quzhi]]** est une cité-forteresse du royaume de [[🏯Qin]], perchée au nord-ouest sur un axe stratégique entre [[🏯Zhao]] et les steppes [[🏯 Xiongnu]]. Officiellement rattachée au [[🏯Qin]], elle agit en réalité comme une faction autonome, dirigée par le prince dissident [[👑Cheng Jiao]], héritier du héros [[🦋Shen Tai]] et porteur d’un des sceaux retenant le Roi Démon [[🐲Huò shé]].
+La **Commanderie de [[🏰Quzhi]]** est une cité-forteresse du royaume de [[🏯Qin]], perchée au nord-ouest sur un axe stratégique entre [[🏯Zhao]] et les steppes [[🏯Xiongnu]]. Officiellement rattachée au [[🏯Qin]], elle agit en réalité comme une faction autonome, dirigée par le prince dissident [[👑Cheng Jiao]], héritier du héros [[🦋Shen Tai]] et porteur d’un des sceaux retenant le Roi Démon [[🐲Huò shé]].
 
 [[🏰Quzhi]] n’est pas seulement le refuge d’un prince rebelle : c’est une forteresse redoutable, dont la garnison reste loyale à la cité avant tout. 
 
@@ -33,7 +33,7 @@ Dans la campagne, Quzhi incarne une menace instable mais redoutable : une enclav
 
 - [[👑Sung Cho-Kuan]] – manipulateur, chef de la [[🏮Guilde des marchands du Zhao]], pousse Cheng Jiao vers sa perte tout en lui faisant miroiter une alliance. 
 
-- **Bandits et mercenaires** – armée de fortune louée pour saboter les routes [[🏯Zhao]]-[[🏯 Xiongnu]].
+- **Bandits et mercenaires** – armée de fortune louée pour saboter les routes [[🏯Zhao]]-[[🏯Xiongnu]].
 
 ---
 
@@ -54,7 +54,7 @@ La force de [[🏰Quzhi]] réside dans sa **garnison de vétérans**, issue des 
 
 - **Infanterie fortifiée** : lourds fantassins et archers stationnés dans les murailles, entraînés aux sièges comme à la défense des cols montagneux.
 
-- **Cavalerie locale** : plus réduite mais essentielle pour les raids et patrouilles le long des frontières [[🏯Zhao]] et [[🏯 Xiongnu]].
+- **Cavalerie locale** : plus réduite mais essentielle pour les raids et patrouilles le long des frontières [[🏯Zhao]] et [[🏯Xiongnu]].
  
 - **Mercenaires et bandits** : troupes irrégulières engagées par [[👑Cheng Jiao]], utilisées pour les coups de main, mais toujours surveillées de près par [[👤Fan Yuqi]] et ses officiers, qui ne leur accordent qu’une confiance limitée.
  

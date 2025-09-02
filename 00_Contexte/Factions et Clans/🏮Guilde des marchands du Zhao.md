@@ -61,7 +61,7 @@ La Guilde n’a pas d’armée régulière mais :
 
 - Elle finance les milices locales et corrompt certains officiers, ce qui mine la discipline de l’armée royale.
 
-- Lors des alliances avec les [[🏯 Xiongnu]], elle négocie directement l’accès aux routes commerciales, se substituant aux généraux.
+- Lors des alliances avec les [[🏯Xiongnu]], elle négocie directement l’accès aux routes commerciales, se substituant aux généraux.
 
 
 Ces forces sont moins visibles que celles du roi, mais elles donnent à [[👑Sung Cho-Kuan]] une **puissance occulte et souterraine**, redoutable dans une guerre d’influence.
