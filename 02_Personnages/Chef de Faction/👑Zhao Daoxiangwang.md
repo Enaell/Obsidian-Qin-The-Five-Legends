@@ -8,7 +8,6 @@
 - **Faction / Allégeance :** Royaume du [[🏯Zhao]]
 
 ---
-
 ### 🧾 Histoire
 
 Zhao Daoxiangwang est le dernier roi de la dynastie [[🏯Zhao]], héritier d’un royaume jadis prospère et premier en commerce. Descendant direct de l’ancienne héroïne **[[🏹Wei Song]]**, il est porteur de son sceau contre le Roi Démon [[🐲Huò shé]].  
@@ -17,7 +16,6 @@ Aujourd’hui, son corps est brisé par l’âge et la maladie. Miné par la par
 Affaibli, il cherche désespérément à préserver le royaume en négociant une fragile paix avec les [[🏯Xiongnu]] via le mariage de sa fille cadette, la princesse **[[🎭Hua Mingyue]]**. Mais il est manipulé de toutes parts et ne voit pas que sa propre cour travaille activement à sa perte.
 
 ---
-
 ### 🎭 Rôle dans la campagne
 
 - **Contexte :**  
@@ -43,7 +41,6 @@ Affaibli, il cherche désespérément à préserver le royaume en négociant une
     - **[[👑Cheng Jiao]]** : prince dissident du [[🏯Qin]], perçu comme une menace extérieure, manipulée par la [[🏮Guilde des marchands du Zhao]].
 
 ---
-
 ### 📜 Notes MJ
 
 - **Utilisation en jeu :**  

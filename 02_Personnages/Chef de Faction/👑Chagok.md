@@ -8,7 +8,6 @@
 **Faction /Allégeance :** Roi des steppes, gardien de l’unité fragile des clans nomades.
 
 ---
-
 ### 🧾 Histoire
 
 Chagok est le puissant Chanyu des Xiongnu, un homme redouté autant pour ses talents de stratège que pour sa poigne implacable. Sa volonté première est de protéger et de renforcer son peuple dans un contexte où les royaumes du sud convoitent leurs terres et leurs ressources.
@@ -24,7 +23,6 @@ Brisé par la perte de son fils aîné, Chagok est animé d’un désir de venge
 À cela s’ajoute une autre exigence : les terres offertes en dot par le [[🏯Zhao]] pour sceller l’alliance sont **maudites et corrompues** (vestiges de la malédiction de [[☄️Fu Hao]]). Chagok exige qu’elles soient purifiées avant d’accepter tout traité, convaincu que personne ne peut installer son peuple sur un sol gangrené par les esprits.
 
 ---
-
 ### 🎭 Rôle dans la campagne
 
 - **Contexte :** Chagok est la clé de l’alliance [[🏯Zhao]]–[[🏯Xiongnu]]. Son peuple est essentiel pour la survie du [[🏯Zhao]] face aux ambitions du Qin et des guerres incessantes. Le mariage princier devait unir les deux nations, mais la mort de Djarga bouleverse l’équilibre.
@@ -56,7 +54,6 @@ Brisé par la perte de son fils aîné, Chagok est animé d’un désir de venge
     - **Les PJ** – Outils de sa vengeance et intermédiaires forcés entre Zhao et Xiongnu.
 
 ---
-
 ### 📜 Notes MJ
 
 - **Utilisation en jeu :** Chagok est à la fois un allié et une menace. Les PJ devront négocier avec un chef meurtri, dont la vengeance peut déraper en guerre totale.

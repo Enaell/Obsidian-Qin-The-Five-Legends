@@ -8,49 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9617d464f52c6831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Contexte/Les Cinq Légendes/🍶Sima Zian.md",
+                "file": "01_Synopsis/Arcs_Narratifs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍶Sima Zian"
+              "title": "Arcs_Narratifs"
             }
           },
           {
-            "id": "eab987accbc94326",
+            "id": "e12bad8a38306f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Contexte/Les Cinq Légendes/🦋Shen Tai.md",
+                "file": "00_Contexte/Armes Légendaires/🔱Cape des Brumes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦋Shen Tai"
+              "title": "🔱Cape des Brumes"
             }
           },
           {
-            "id": "bf617459db5adbf8",
+            "id": "016f7296aff438f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Contexte/Les Cinq Légendes/☄️Fu Hao.md",
+                "file": "00_Contexte/Armes Légendaires/📊Stats Ailes Ecarlates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☄️Fu Hao"
+              "title": "📊Stats Ailes Ecarlates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,36 +232,36 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "eab987accbc94326",
+  "active": "56a214a956574a62",
   "lastOpenFiles": [
-    "00_Contexte/Les Cinq Légendes/🍶Sima Zian.md",
-    "00_Contexte/Les Cinq Légendes/☄️Fu Hao.md",
-    "00_Contexte/Armes Légendaires/🔱Cape des Brumes.md",
-    "00_Contexte/Les Cinq Légendes/🦋Shen Tai.md",
-    "🛕Palais de Quzhi.md",
-    "99_Annexes/Utils/Icônes.md",
-    "00_Contexte/Les Cinq Légendes/🏹Wei Song.md",
-    "99_Annexes/Utils/Templates/Template Héros de la Légende.md",
-    "00_Contexte/Armes Légendaires/🔱Cœur-de-Montagne.md",
-    "99_Annexes/Utils/Templates/Template Stat Bloc.md",
-    "99_Annexes/Utils/Templates/Template Faction.md",
-    "99_Annexes/Utils/Templates/Template Dirigeant.md",
-    "99_Annexes/Utils/Templates/Template Armes Légendaires.md",
-    "00_Contexte/Armes Légendaires/📊Stats Cape des Brumes.md",
-    "00_Contexte/Armes Légendaires/📊Stats Cœur-de-Montagne.md",
-    "99_Annexes/Utils/Templates",
-    "06_Lieux/🛕Mausolée de Fu Hao.md",
-    "00_Contexte/Armes Légendaires/Cape.md",
-    "00_Contexte/Armes Légendaires/🔱Eventail.md",
-    "02_Personnages/Chef de Faction/👑Chagok.md",
-    "04_Mécaniques/Talents/💧Acrobaties.md",
-    "Qin.md",
-    "Sans titre.base",
+    "01_Synopsis/Timeline.md",
+    "01_Synopsis/VisualTimeline.md",
+    "01_Synopsis/Synopsis_Global.md",
+    "01_Synopsis/Arcs_Narratifs.md",
+    "04_Mécaniques/Taos/☯️Tao de l'Ombre dissimulée.md",
+    "04_Mécaniques/Taos/☯️Tao de la Présence sereine.md",
+    "04_Mécaniques/Pouvoirs occultes/Vol.md",
+    "04_Mécaniques/Pouvoirs occultes/Vampirisme.md",
+    "04_Mécaniques/Pouvoirs occultes/Possession.md",
+    "04_Mécaniques/Pouvoirs occultes/Arme naturelle.md",
+    "04_Mécaniques/Pouvoirs occultes/Armure naturelle.md",
+    "04_Mécaniques/Aspects/⚙️Métal.md",
+    "04_Mécaniques/Aspects/💧Eau.md",
+    "04_Mécaniques/Aspects/🌳Bois.md",
+    "02_Personnages/PNJ_Majeurs/🎭Sargaï.md",
+    "02_Personnages/PNJ_Majeurs/🎭Hua Mingyue.md",
+    "00_Contexte/Armes Légendaires/🔱Ailes Ecarlates.md",
+    "06_Lieux/🏰Handan.md",
+    "02_Personnages/Chef de Faction/👑Ying Zheng.md",
     "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
-    "02_Personnages/Chef de Faction/Stat blocs/📊Zhao Daoxiangwang.md",
-    "⚙️ChuiShù.md",
-    "04_Mécaniques/Talents/⚙️Lancer.md",
-    "04_Mécaniques/Talents/⚙️ChuiShù (Masse d'arme).md",
+    "02_Personnages/PNJ_Mineurs/👤Lu Buwei.md",
+    "06_Lieux/🏰Quzhi.md",
+    "00_Contexte/Armes Légendaires/🔱Brasier des Steppes.md",
+    "02_Personnages/PNJ_Mineurs/👤Fan Yuqi.md",
+    "99_Annexes/Utils/Templates/Template Dirigeant.md",
+    "02_Personnages/Chef de Faction/👑Zhao Daoxiangwang.md",
+    "Sans titre.base",
+    "99_Annexes/Utils/Templates",
     "00_Contexte/Armes Légendaires",
     "04_Mécaniques/Aspects",
     "04_Mécaniques/Talents",

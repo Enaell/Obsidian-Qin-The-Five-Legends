@@ -7,6 +7,7 @@
 - **Origine / Statut social :** Fils de marchand modeste, devenu l’homme le plus riche et influent du Zhao.
 - **Faction / Allégeance :** Chef de la [[🏮Guilde des marchands du Zhao]], corrompu par [[🐲Huò shé]].
 
+---
 ### 🧾 Histoire
 
 Sung Cho-Kuan naquit dans une famille de petits marchands de Handan. Parti de rien, il commença par tenir un simple étal de marché, avant d’amasser une petite fortune qu’il réinvestit avec brio. Spécialisé dans le commerce de chevaux, il sut négocier directement avec les steppes du nord, devenant l’un des plus grands fournisseurs de l’armée du Zhao. Sa fortune colossale et son sens des affaires l’amenèrent à prendre la tête de la puissante **[[🏮Guilde des marchands du Zhao]]**, véritable État dans l’État.
@@ -15,7 +16,7 @@ Riche, influent, habile manipulateur, il devint rapidement **l’homme le plus p
 
 Descendant lointain du poète légendaire [[🍶Sima Zian]], il ignore longtemps sa filiation héroïque. Mais, ironie du destin, il est lui-même porteur d’un des sceaux, qu’il compte briser lors d’un rituel pour libérer son maître démoniaque.
 
-
+---
 ### 🎭 Rôle dans la campagne
 
 - **Contexte :** Principal antagoniste de la campagne. C’est lui qui orchestre l’Acte I en envoyant les PJ escorter la princesse [[🎭Hua Mingyue]], tout en manipulant [[👑Cheng Jiao]] et en préparant la libération de [[🐲Huò shé]].
@@ -44,7 +45,7 @@ Descendant lointain du poète légendaire [[🍶Sima Zian]], il ignore longtemps
     
     - Ennemis : Les PJ, [[🐒Sun WuKong]].
 
-
+---
 ### 📜 Notes MJ
 
 - **Utilisation en jeu :** Antagoniste majeur, véritable marionnettiste de l’ombre. Ses intrigues manipulent aussi bien la politique que le destin surnaturel des PJ.

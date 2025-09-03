@@ -1,16 +1,16 @@
 
 ### [[🐒Sun WuKong]] – Le Roi Singe
 
-- **Arme :** Bâton magique (élément Bois/Feu)
-    
+- **Arme :** [[🔱Bâton de Bon-Plaisir Cerclé d’Or]] (élément Bois/Feu)
+
 - **Capacités :** Bâton qui change de taille, peut s’embraser ; Changeforme ; maîtrise de la nature et des arts mystiques.
-    
+
 - **Histoire :** Chef des cinq héros, orgueilleux et rusé. C’est lui qui décida de briser volontairement son sceau afin d'affronter de nouveau Huò Shé et prouver sa supériorité. Dans la campagne, il peut devenir soit allié ambigu, soit ennemi final si les PJ se embrasser la cause du Serpent.
 
 ---
 ### [[🏹Wei Song]] – L’Archère des Xiongnu
 
-- **Arme :** Arc (élément Feu/Terre)
+- **Arme :** [[🔱Brasier des Steppes]] (élément Feu/Terre)
 
 - **Capacités :** Archère à cheval infaillible (flèches enflammées, tirs instinctifs, attaques multiples, pouvoir de terreur avec sa monture).
 
@@ -19,7 +19,7 @@
 ---
 ### [[☄️Fu Hao]] – La Guerrière
 
-- **Arme :** Masse géante (élément Terre/Métal)
+- **Arme :** [[🔱Cœur-de-Montagne]] (élément Terre/Métal)
 
 - **Capacités :** Force surhumaine, techniques destructrices (séisme, coups assommants, lancer de masse).
 
@@ -28,7 +28,7 @@
 ---
 ### [[🦋Shen Tai]] – L’Assassin
 
-- **Arme :** Doubles éventails de métal (élément Métal/Eau)
+- **Arme :** [[🔱Ailes Ecarlates]] (élément Métal/Eau)
 
 - **Capacités :** Assassin agile, attaques rapides et mortelles (danse des éventails, attaques avant l’adversaire, contre-attaques surnaturelles).
 
@@ -37,7 +37,7 @@
 ---
 ### [[🍶Sima Zian]] – Le Poète Ivrogne
 
-- **Arme :** Cape/Manteau (élément Eau/Bois)
+- **Arme :** [[🔱Cape des Brumes]] (élément Eau/Bois)
 
 - **Capacités :** Style imprévisible inspiré de l’ivresse (drain de Chi, frappes internes, immobilisation).
 

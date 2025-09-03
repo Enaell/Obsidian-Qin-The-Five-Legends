@@ -7,6 +7,7 @@
 - **Origine / Statut social :** Fils illégitime du précédent roi du Qin et d’une concubine.
 - **Faction / Allégeance :** Prince dissident de [[🏯Qin]], auto-proclamé dirigeant de la commanderie de [[🏰Quzhi]].
 
+---
 ### 🧾 Histoire
 
 Fils illégitime de l’ancien roi du [[🏯Qin]] et d’une concubine issue de la lignée de **[[🦋Shen Tai]]**, Cheng Jiao est l’un des héritiers des sceaux démoniaques. Manipulé par **[[👑Sung Cho-Kuan]]** et corrompu par l’influence insidieuse du Roi Démon Serpent **[[🐲Huò shé]](祸蛇)**, il a rompu avec la cour de son frère (l’actuel roi de [[🏯Qin]], [[👑Ying Zheng]]).  
@@ -15,6 +16,7 @@ Pour sa propre sécurité, il ne sort presque plus de son palais, et seules cert
 
 Son avidité et sa soif de pouvoir le condamnent : pour briser son sceau, il doit être tué – par les PJ, les [[🏯Xiongnu]], ou même [[☄️Fu Hao]], tous ses ennemis jurés. Quoi qu’il arrive, son destin est scellé.
 
+---
 ### 🎭 Rôle dans la campagne
 
 - **Contexte :** Héritier du sceau de [[🦋Shen Tai]], Cheng Jiao est manipulé par [[👑Sung Cho-Kuan]] et corrompu par le Roi Démon [[🐲Huò shé]]. Son ambition est d’affaiblir [[🏯Qin]] et de bâtir une base de pouvoir dans le nord. Les PJ sont envoyés contre lui car il a fomenté un complot pour saboter l’alliance [[🏯Zhao]]–[[🏯Xiongnu]].
@@ -43,6 +45,7 @@ Son avidité et sa soif de pouvoir le condamnent : pour briser son sceau, il doi
     
     - Ennemis : [[👑Ying Zheng]], les PJs, les [[🏯Xiongnu]], [[☄️Fu Hao]] (qui le hait pour la trahison de [[🦋Shen Tai]]).
 
+---
 ### 📜 Notes MJ
 
 - **Utilisation en jeu :** Antagoniste majeur de l’Acte I, il doit apparaître comme une menace politique et militaire, mais aussi comme une victime manipulée par plus puissant que lui.

@@ -1,7 +1,6 @@
 - **Yin**
 - **Engendre**  : [[💧Eau]]
 - **Domine**  : [[🌳Bois]]
-
 #### Affinité élémentaire : 
 - Sec et froid, le Métal est dur, mince et tranchant. Il est également puissant et solide.
 

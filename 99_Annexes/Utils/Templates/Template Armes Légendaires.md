@@ -26,6 +26,6 @@ Pour obtenir l'arme, les PJs devront xxx
 " xxx "
 
 ---
-### 📜 Légende de **Cœur-de-Montagne**
+### 📜 Légende de **XXX**
 
 xxx
