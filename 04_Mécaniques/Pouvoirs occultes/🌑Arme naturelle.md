@@ -1,0 +1,2 @@
+Cornes, griffes, crocs ou excroissances osseuses diverses, ou même acide, feu ou vapeur brûlante, certaines créatures comme les démons, les morts-vivants ou les Yao possèdent des armes naturelles capables d’infliger des dégâts mortels.
+Les dommages d’une Arme naturelle s’ajoutent à ceux que la créature inflige déjà en attaquant au corps à corps s’il s’agit de griffes, crocs, cornes, etc. Ou ils s’appliquent normalement dans le cas de crachat de feu, d’acide, etc.

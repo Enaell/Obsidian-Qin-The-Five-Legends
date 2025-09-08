@@ -1,0 +1,2 @@
+Certaines créatures très puissantes sont tout simplement invulnérables aux coups que les mortels peuvent leur porter, aussi forts soient-ils. Seules certaines techniques d’Exorcisme ou des armes légendaires sont alors à même de blesser de tels êtres.
+Une créature invulnérable n’est pas forcément immunisée à tout et il est alors spécifié quels types d’attaque peuvent lui infliger des dommages.

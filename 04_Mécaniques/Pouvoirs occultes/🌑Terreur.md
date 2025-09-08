@@ -1,0 +1,3 @@
+Certains monstres sont si effrayants qu’ils peuvent paralyser de peur ceux qui y sont confrontés.
+Le niveau de Terreur d’une créature représente le SR du Test de Résistance qu’un personnage doit réussir pour pouvoir agir normalement en présence de la créature.
+En cas d’échec, la différence entre le niveau de Terreur et le résultat de son Test devient le malus appliqué à toutes les actions du personnage tant qu’il est confronté à la créature.

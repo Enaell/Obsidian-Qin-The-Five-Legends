@@ -24,7 +24,7 @@
 
 - **Tonnerre des Anneaux d’Or** (6 Chi – Attaque de zone)  
     En frappant le sol avec les anneaux du bâton, le porteur déclenche une onde de choc.  
-    Tous les ennemis dans un rayon de **5 mètres** doivent réussir un Test de Résistance SR 9 ou  subissent **2 dégâts** ignorant l'armure (mais pas la résistances dues à Tao ou l'[[Armure naturelle]] des monstres).  
+    Tous les ennemis dans un rayon de **5 mètres** doivent réussir un Test de Résistance SR 9 ou  subissent **2 dégâts** ignorant l'armure (mais pas la résistances dues à Tao ou l'[[🌑Armure naturelle]] des monstres).  
     _Effet secondaire : les anneaux résonnent comme des tambours célestes, le tonnerre grondant dans leur sillage._
 
 - **Héritage du Roi-Singe** (10 Chi – Pouvoir ultime)  

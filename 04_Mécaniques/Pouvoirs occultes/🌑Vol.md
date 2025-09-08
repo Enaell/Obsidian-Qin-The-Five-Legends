@@ -1,0 +1,2 @@
+Une créature possédant ce pouvoir peut voler dans les airs à une vitesse maximum égal à son mouvement (Eau x mètres par action).
+Certaines créatures peuvent défier les lois de la gravité grâce à des ailes, d’autres se contentent de flotter grâce à leur nature spectrale.

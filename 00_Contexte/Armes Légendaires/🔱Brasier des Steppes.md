@@ -4,7 +4,7 @@
 
 Arme des plaines, symbole de la fureur de Wei Song, **Le Brasier des Steppes** enflamme le champ de bataille de ses traits ardents. Sa puissance se révèle surtout lorsqu’il est manié à cheval, incarnant l’union du cavalier et des flammes.
 
-- **Bonus d'Élément :** [[🔥Feu]] (+2), [[🪨Terre]] (+1)
+- **Bonus d'Élément :** [[🌳Bois]] (+2), [[🔥Feu]] (+1)
 - **Base de Talent Bonus :** [[⚙️Gongshù (tir à l’arc)]]  (5), [[💧Équitation]] (3)
 - **Dégâts/Armure :** 4 – **Indestructible**
 

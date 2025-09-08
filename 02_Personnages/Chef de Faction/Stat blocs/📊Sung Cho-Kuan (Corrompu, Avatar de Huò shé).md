@@ -37,14 +37,14 @@
 ---
 ### 🌑Pouvoirs occultes
 
-- **[[Arme naturelle]] (4)** – Griffes, crocs et langue-serpent.
-- **[[Armure naturelle]] (3)** – Peau écailleuse
-- **[[Invulnérabilité]] (partielle)** – seuls l'Exorcisme ou armes sacrées peuvent le blesser réellement.
-- **[[Terreur]] (10)** – SR 10 pour agir normalement en sa présence.
-- **[[Illusion]] (6)** – illusions terrifiantes, paysages cauchemardesques.
-- **[[Vampirisme]] (5)** – absorbe le Chi par morsure/étreinte.
-- **[[Possession]] (5)** – peut contrôler un corps faible ou corrompu.
-- **[[Vol]] (limité)** – se laisse porter/planer dans les airs sur de courtes distances.
+- **[[🌑Arme naturelle]] (4)** – Griffes, crocs et langue-serpent.
+- **[[🌑Armure naturelle]] (3)** – Peau écailleuse
+- **[[🌑Invulnérabilité]] (partielle)** – seuls l'Exorcisme ou armes sacrées peuvent le blesser réellement.
+- **[[🌑Terreur]] (10)** – SR 10 pour agir normalement en sa présence.
+- **[[🌑Illusion]] (6)** – illusions terrifiantes, paysages cauchemardesques.
+- **[[🌑Vampirisme]] (5)** – absorbe le Chi par morsure/étreinte.
+- **[[🌑Possession]] (5)** – peut contrôler un corps faible ou corrompu.
+- **[[🌑Vol]] (limité)** – se laisse porter/planer dans les airs sur de courtes distances.
 ---
 ### ☯️ Taos :
 

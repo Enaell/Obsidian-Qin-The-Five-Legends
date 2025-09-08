@@ -1,0 +1,2 @@
+Musculature puissante, carapace démoniaque ou semi-intangibilité, nombreuses sont les créatures protégées contre les coups par une armure naturelle.
+La protection octroyée par celle-ci se retranche directement à tout dommage infligé à la créature.

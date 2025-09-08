@@ -4,7 +4,7 @@
 - [[💧Eau]] **3**
 - [[🌳Bois]] **5**
 - [[🔥Feu]] **5**
-- [[Terreur]] **5**
+- [[🌑Terreur]] **5**
 ---
 ### ✨ Aspects secondaires :
 

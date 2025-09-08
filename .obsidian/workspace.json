@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9617d464f52c6831",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Synopsis/Arcs_Narratifs.md",
+                "file": "00_Contexte/Histoire du Zhongguo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcs_Narratifs"
+              "title": "Histoire du Zhongguo"
             }
           },
           {
-            "id": "e12bad8a38306f96",
+            "id": "81e8af207621789b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Contexte/Armes Légendaires/🔱Cape des Brumes.md",
+                "file": "🗓️ Chronologie condensée (−260 → −221 av. J.-C.).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔱Cape des Brumes"
-            }
-          },
-          {
-            "id": "016f7296aff438f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Contexte/Armes Légendaires/📊Stats Ailes Ecarlates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📊Stats Ailes Ecarlates"
+              "title": "🗓️ Chronologie condensée (−260 → −221 av. J.-C.)"
             }
           }
         ]
@@ -232,34 +218,34 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "56a214a956574a62",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🗓️ Chronologie condensée (−260 → −221 av. J.-C.).md",
+    "02_Personnages/PNJ_Mineurs/👤Lü Buwei.md",
+    "00_Contexte/Histoire du Zhongguo.md",
+    "00_Contexte/Evènements/⚔️Changping.md",
+    "00_Contexte/Magie et Creatures.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Vampirisme.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Vol.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Terreur.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Possession.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Invulnérabilité.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Illusion.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Armure naturelle.md",
+    "04_Mécaniques/Pouvoirs occultes/🌑Arme naturelle.md",
+    "02_Personnages/Chef de Faction/Stat blocs/📊Sung Cho-Kuan (Corrompu, Avatar de Huò shé).md",
+    "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
+    "00_Contexte/Factions et Clans/🏮Guilde des marchands du Zhao.md",
+    "00_Contexte/Factions et Clans/🏯Huò shé (Roi Démon Serpent) et ses légions.md",
+    "00_Contexte/Les Cinq Légendes/Héros de la légende.md",
+    "00_Contexte/Armes Légendaires/📊Stats Brasier des Steppes.md",
+    "00_Contexte/Armes Légendaires/🔱Brasier des Steppes.md",
+    "01_Synopsis/Arcs_Narratifs.md",
     "01_Synopsis/Timeline.md",
     "01_Synopsis/VisualTimeline.md",
     "01_Synopsis/Synopsis_Global.md",
-    "01_Synopsis/Arcs_Narratifs.md",
     "04_Mécaniques/Taos/☯️Tao de l'Ombre dissimulée.md",
     "04_Mécaniques/Taos/☯️Tao de la Présence sereine.md",
-    "04_Mécaniques/Pouvoirs occultes/Vol.md",
-    "04_Mécaniques/Pouvoirs occultes/Vampirisme.md",
-    "04_Mécaniques/Pouvoirs occultes/Possession.md",
-    "04_Mécaniques/Pouvoirs occultes/Arme naturelle.md",
-    "04_Mécaniques/Pouvoirs occultes/Armure naturelle.md",
-    "04_Mécaniques/Aspects/⚙️Métal.md",
-    "04_Mécaniques/Aspects/💧Eau.md",
-    "04_Mécaniques/Aspects/🌳Bois.md",
-    "02_Personnages/PNJ_Majeurs/🎭Sargaï.md",
-    "02_Personnages/PNJ_Majeurs/🎭Hua Mingyue.md",
-    "00_Contexte/Armes Légendaires/🔱Ailes Ecarlates.md",
-    "06_Lieux/🏰Handan.md",
-    "02_Personnages/Chef de Faction/👑Ying Zheng.md",
-    "02_Personnages/Chef de Faction/👑Sung Cho-Kuan.md",
-    "02_Personnages/PNJ_Mineurs/👤Lu Buwei.md",
-    "06_Lieux/🏰Quzhi.md",
-    "00_Contexte/Armes Légendaires/🔱Brasier des Steppes.md",
-    "02_Personnages/PNJ_Mineurs/👤Fan Yuqi.md",
-    "99_Annexes/Utils/Templates/Template Dirigeant.md",
-    "02_Personnages/Chef de Faction/👑Zhao Daoxiangwang.md",
     "Sans titre.base",
     "99_Annexes/Utils/Templates",
     "00_Contexte/Armes Légendaires",

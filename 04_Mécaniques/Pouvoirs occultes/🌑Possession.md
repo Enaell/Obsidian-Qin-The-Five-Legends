@@ -1,0 +1,5 @@
+Démons ou fantômes, certaines créatures peuvent posséder le corps d’un humain et s’en servir pour agir dans le monde des vivants. 
+Lorsqu’une créature essaie de posséder un personnage, elle fait un Test en Opposition de son niveau de Possession contre la Résistance de sa proie (égale à Métal + Terre). 
+Si la créature le remporte, elle parvient à dominer sa victime et peut désormais agir à sa place. Elle utilise alors les Aspects Métal, Eau et Feu du possédé mais garde ses propres niveaux de Bois et de Terre. 
+Elle a accès à toutes les autres capacités de sa proie (Don, Faiblesse, Talents, Taos, etc.).
+Le Test en Opposition est à renouveler tous les jours, et si la victime parvient à le remporter, elle expulse la créature de son corps et ne peut plus être possédée par elle durant une année entière.

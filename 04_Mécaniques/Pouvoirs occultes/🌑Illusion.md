@@ -1,0 +1,4 @@
+Grâce à ce pouvoir, une créature peut créer un faux-semblant de réalité, comme grimer son apparence ou transformer un lieu en un autre. 
+Lorsqu’un humain est confronté à une telle illusion, il fait un Test en Opposition de Terre + Perception contre le niveau dans ce pouvoir de la créature.
+En cas de réussite, la victime comprend que la réalité est différente de ce qu’elle voit et cette prise de conscience lui permet de passer outre la chimère. En cas d’échec, la victime prend l’illusion pour la réalité et agit en fonction de ce qu’elle croit percevoir (l’illusion agit sur les cinq sens).
+Certaines techniques d’Exorcisme comme Reflet de la Vérité ou Voir au delà du Voile permettent de percer à jour ce pouvoir.
